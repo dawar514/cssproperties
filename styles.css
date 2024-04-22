@@ -1,0 +1,15 @@
+.box2{
+    background-color: rgba(65, 39, 194, 0.877);
+    color: white;
+    border: dashed 3px black;
+    border-radius: 20px;
+    width: 250px; height: 200px;
+    overflow: scroll;
+    text-align: justify;
+}
+h1{
+    font-family: fantasy;
+}
+h1{
+    font-size: xx-large; font-family: cursive; font-style: italic;
+}
